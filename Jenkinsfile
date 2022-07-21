@@ -24,3 +24,4 @@ stage('SCM'){
             sh"mvn package"
             }
          }    
+    }
